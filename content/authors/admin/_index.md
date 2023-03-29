@@ -9,12 +9,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.linkedin.com/in/felipe-pinto-556764b0/
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/FelipeArqdata
+email: felipearqdata@gmail.com
 ---
 <!--StartFragment-->
 
