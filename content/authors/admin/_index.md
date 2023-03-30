@@ -1,10 +1,8 @@
 ---
 title: Felipe
 role: ""
+avatar_filename: imagem1.png.jpg
 bio: ""
-superuser: true
-status:
-  icon: ☕️
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,6 +14,9 @@ social:
     icon_pack: fab
     link: https://github.com/FelipeArqdata
 email: felipearqdata@gmail.com
+superuser: true
+status:
+  icon: ☕️
 ---
 <!--StartFragment-->
 
