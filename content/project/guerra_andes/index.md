@@ -1,5 +1,5 @@
 ---
-title: Conflitos bélicos do andes pré-colonial
+title: Conflitos bélicos nos andes pré-colonial
 date: 2022-01-01
 summary: Write about your project here...
 tags:
