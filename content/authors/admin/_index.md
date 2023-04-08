@@ -1,7 +1,7 @@
 ---
 title: Felipe
 role: ""
-avatar_filename: imagem1.png.jpg
+avatar_filename: imagem.png
 bio: ""
 social:
   - icon: envelope
