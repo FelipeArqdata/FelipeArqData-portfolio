@@ -11,12 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Arqueologia
+      tag: ARQ
+    - name: Geoprocessamento
+      tag: GEO
+    - name: Ciência de dados
+      tag: CD
 design:
   columns: "1"
   view: masonry
