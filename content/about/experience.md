@@ -48,17 +48,17 @@ experience:
         * Escavação de urnas funerárias
 
 
-   - title: Arqueólogo de campo
-     company: Universida de São Paulo
-     company_url: ''
-     company_logo: org-gc
-     location: Matozinhos, MG
-     date_start: '2019-07-21'
-     date_end: '2019-08-04'
-     description: |2-
-         Responsabilidades:
+  - title: Arqueólogo de campo
+    company: Universida de São Paulo
+    company_url: ''
+    company_logo: org-gc
+    location: Matozinhos, MG
+    date_start: '2019-07-21'
+    date_end: '2019-08-04'
+    description: |2-
+        Responsabilidades:
         
-         * Escavação e curadoria de materiais arqueologicos do sítio Lapa do Santo,MG
+        * Escavação e curadoria de materiais arqueologicos do sítio Lapa do Santo,MG
 design:
   columns: '1'
 ---
