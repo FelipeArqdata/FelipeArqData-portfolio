@@ -34,6 +34,7 @@ experience:
         
         * Atividades de prospecção e coleta de dados, em áreas de implatação de estruturas de um complexo eólico
 
+
   - title: Arqueólogo de campo
     company: Universida de São Paulo
     company_url: ''
@@ -45,6 +46,7 @@ experience:
         Responsabilidades:
         
         * Escavação de urnas funerárias
+
 
    - title: Arqueólogo de campo
     company: Universida de São Paulo
