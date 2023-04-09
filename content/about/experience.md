@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Experiências 
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Arqueólogo de campo
+    company: Zanettini Arqueologia
+    company_url: 'https://www.zanettiniarqueologia.com.br/'
+    company_logo: org-gc
+    location: Gentío de Ouro, BA
+    date_start: '2022-11-11'
+    date_end: '2022-12-21'
+    description: |2-
+        Responsabilidades:
+        
+        * Atividades de prospecção e coleta de dados, em áreas de implatação de estruturas de um complexo eólico
+
+  - title: Arqueólogo de campo
+    company: Universida de São Paulo
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Pirajiba, BA
+    date_start: '2022-08-06'
+    date_end: '2022-08-21'
     description: |2-
-        Responsibilities include:
+        Responsabilidades:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Escavação de urnas funerárias
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+   - title: Arqueólogo de campo
+    company: Universida de São Paulo
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: org-gc
+    location: Matozinhos, MG
+    date_start: '2019-07-21'
+    date_end: '2019-08-04'
+    description: |2-
+        Responsabilidades:
+        
+        * Escavação e curadoria de materiais arqueologicos do sítio Lapa do Santo,MG
 design:
   columns: '1'
 ---
