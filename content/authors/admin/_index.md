@@ -1,7 +1,7 @@
 ---
 title: Felipe
 role: ""
-avatar_filename: imagem.png
+avatar_filename: ""
 bio: ""
 social:
   - icon: envelope
@@ -20,7 +20,7 @@ status:
 ---
 <!--StartFragment-->
 
-Arqueólogo fascinado pela origem das coisas. Muito interessado em combinar ciência social com ciência de dados.
+Arqueólogo fascinado pela origem das coisas. Muito interessado em combinar ciências sociai com ciência de dados.
 
 <!--EndFragment-->
 
