@@ -6,5 +6,4 @@ tags:
   - ARQ
 external_link: http://github.com
 ---
-
 *Analisando evidências bioarqueológicas de violência nos andes pré-colonial
