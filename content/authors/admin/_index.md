@@ -24,4 +24,4 @@ Arqueólogo fascinado pela origem das coisas. Muito interessado em combinar ciê
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Felipe Pinto dos Santos_Curriculo_2023.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Felipe Pinto dos Santos_Curriculo_2023.pdf" "newtab" >}}Download{{< /staticref >}} my currículo as a PDF.
