@@ -20,7 +20,7 @@ status:
 ---
 <!--StartFragment-->
 
-Archeologist and Anthropologist. Fascinated by the origin of things. Very interested in combining social science with data science.
+Arqueólogo fascinado pela origem das coisas. Muito interessado em combinar ciência social com ciência de dados.
 
 <!--EndFragment-->
 
